@@ -1,3 +1,4 @@
 <filter xmlns="http://jboss.com/products/seam/persistence">
-
+ <name></name>
+    <parameters></parameters>
 </filter>
